@@ -8,12 +8,15 @@ html, body {
   font-size: 16px;
   text-align: center;
   background-color: #000000;
-  color: #FFFFFF;
+  color: #000000;
 }
 
 main {
-  background-color: #000080;
+  background-color: #FFFFFF;
   border-radius: 12px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: navy;
   width: 450px;
   margin: 4rem auto; 
   overflow: hidden;
