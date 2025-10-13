@@ -4,7 +4,7 @@
 }
 
 html, body {
-  font-family: Helvetica, sans-serif;
+  font-family: courier new, monospaced;
   font-size: 16px;
   text-align: center;
   background-color: #000000;
@@ -39,7 +39,7 @@ main {
 }
 
 .title {
-  font-color: navy;
+  font-color: black;
   font-size: 1rem;
   letter-spacing: 0.15rem;
   text-transform: uppercase;
@@ -48,11 +48,12 @@ main {
 
 .quote {
   font-size: 1.5rem;
+  font-color: #000080;
   font-weight: bold;
   line-height: 2rem;
   margin-bottom: 0.25rem;
 }
 
 .quoted {
-  color: #000080;
+  color: black;
   font-style: italic;
