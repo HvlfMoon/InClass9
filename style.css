@@ -7,8 +7,14 @@ html, body {
   font-family: Helvetica, sans-serif;
   font-size: 16px;
   text-align: center;
-  background-color: #000080;
+  background-color: #000000;
   color: #FFFFFF;
 }
 
-  
+main {
+  background-color: #000080;
+  border-radius: 12px;
+  width: 450px;
+  margin: 4rem auot; 
+  overflow: hidden;
+}
