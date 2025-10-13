@@ -47,8 +47,8 @@ main {
 }
 
 .quote {
+  font-color: #000080;
   font-size: 1.5rem;
-  font-color: navy;
   font-weight: bold;
   line-height: 2rem;
   margin-bottom: 0.25rem;
