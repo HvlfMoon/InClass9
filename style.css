@@ -45,3 +45,10 @@ main {
   text-transform: uppercase;
   margin-bottom: 0.5rem;
 }
+
+.quote {
+  font-size: 1.5rem;
+  font-weight: bold;
+  line-height: 2rem;
+  margin-bottom: 0.25rem;
+}
