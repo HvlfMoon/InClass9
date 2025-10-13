@@ -40,7 +40,7 @@ main {
 
 .title {
   font-color: navy;
-  font-size: 3rem;
+  font-size: 1rem;
   letter-spacing: 0.15rem;
   text-transform: uppercase;
   margin-bottom: 0.5rem;
@@ -52,3 +52,7 @@ main {
   line-height: 2rem;
   margin-bottom: 0.25rem;
 }
+
+.quoted {
+  color: #000080;
+  font-style: italic;
